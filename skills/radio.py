@@ -7,7 +7,7 @@ import webbrowser
 
 
 def capital_fm(text_ru, text_en):
-    url = 'https://icecast-vgtrk.cdnvideo.ru/capitalfmmp3'
+    url = 'https://icecast-vgtrk.cdnvideo.ru/capitalfmmp3?v=1731187078627'
     webbrowser.open(url)
     pass
 
